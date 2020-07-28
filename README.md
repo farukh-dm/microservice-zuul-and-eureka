@@ -3,7 +3,9 @@
   Zuul & Eureka:
   
   https://cloud.spring.io/spring-cloud-netflix/multi/multi__router_and_filter_zuul.html#netflix-zuul-reverse-proxy
+  
   https://medium.com/@iroshan.du/spring-boot-micro-services-with-eureka-and-zuul-proxy-with-fegin-client-68a3ad78453b
+  
   https://www.baeldung.com/zuul-load-balancing
   
   zuul:
